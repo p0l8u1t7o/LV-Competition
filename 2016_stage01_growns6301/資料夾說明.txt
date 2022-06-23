@@ -1,0 +1,6 @@
+1. Config: 放置設定檔案。
+2. Data Def:放置Type Difinition的Control。
+3. Fuction: 放置語音辨識模組的程式。
+4. Image: 放置圖檔。
+5. SubVI: Main.vi用到的SubVI。
+6. Variable: Fuction Grobal Variable放置位置。
